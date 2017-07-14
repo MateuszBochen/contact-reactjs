@@ -1,0 +1,1031 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sh",
+				"shoploProduct"
+			],
+			[
+				"sho",
+				"shoploService"
+			],
+			[
+				"pa",
+				"package"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"vin",
+				"vinCollection"
+			],
+			[
+				"de",
+				"depth"
+			],
+			[
+				"er",
+				"erpId"
+			],
+			[
+				"erp",
+				"setErpId"
+			],
+			[
+				"price",
+				"priceRegular"
+			],
+			[
+				"qu",
+				"quantity"
+			],
+			[
+				"req",
+				"requireShipping"
+			],
+			[
+				"file",
+				"fileService"
+			],
+			[
+				"dea",
+				"dealership"
+			],
+			[
+				"mode",
+				"model"
+			],
+			[
+				"vali",
+				"validatorObject"
+			],
+			[
+				"pop",
+				"property"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"model",
+				"model_to_dict"
+			],
+			[
+				"class",
+				"classname"
+			],
+			[
+				"devi",
+				"Device"
+			],
+			[
+				"tes",
+				"test"
+			],
+			[
+				"re",
+				"requestToken"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"rule",
+				"ruleId"
+			],
+			[
+				"app",
+				"appName"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"i",
+				"integration"
+			],
+			[
+				"link",
+				"linkedin"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"int",
+				"integrationRepo"
+			],
+			[
+				"fotn",
+				"font-weight"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"ve",
+				"vehicleWord"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"com",
+				"command"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"bar",
+				"branchesCollection"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"mail",
+				"mailgun"
+			],
+			[
+				"Mai",
+				"mailgun"
+			],
+			[
+				"Mail",
+				"mailer"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"json",
+				"json"
+			],
+			[
+				"base",
+				"base64_encode"
+			],
+			[
+				"en",
+				"entityManager"
+			],
+			[
+				"phone",
+				"Phonenumber"
+			],
+			[
+				"trackin",
+				"trackingNuber"
+			],
+			[
+				"retu",
+				"returnList"
+			],
+			[
+				"mai",
+				"mail"
+			],
+			[
+				"main",
+				"main2"
+			],
+			[
+				"jso",
+				"jsonString"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"Nied",
+				"niedozwolone"
+			],
+			[
+				"pat",
+				"pattern"
+			],
+			[
+				"plik",
+				"plików"
+			],
+			[
+				"ur",
+				"urlencode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"create",
+				"createDir"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"send",
+				"sendAsDocs"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"remo",
+				"remove"
+			],
+			[
+				"co",
+				"cookieName"
+			],
+			[
+				"coo",
+				"cookieText"
+			],
+			[
+				"the",
+				"then"
+			],
+			[
+				"sum",
+				"submit"
+			],
+			[
+				"fa",
+				"fail"
+			],
+			[
+				"logi",
+				"loginForm"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"has",
+				"has-error"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"find",
+				"findAll"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"coun",
+				"countryInZone"
+			],
+			[
+				"sped",
+				"speditorZone"
+			],
+			[
+				"ov",
+				"overlayContent"
+			],
+			[
+				"acc",
+				"accessToken"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"all",
+				"allPages"
+			],
+			[
+				"access",
+				"accessToken"
+			],
+			[
+				"new",
+				"newData"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"selec",
+				"selectedValue"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"inv",
+				"invoiceCode"
+			],
+			[
+				"pr",
+				"prices"
+			],
+			[
+				"la",
+				"labelsApi"
+			],
+			[
+				"getS",
+				"getSpeditor"
+			],
+			[
+				"z",
+				"zones"
+			],
+			[
+				"sp",
+				"speditorSlug"
+			],
+			[
+				"getD",
+				"getDescription"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"zoe",
+				"zones"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			],
+			[
+				"bas",
+				"base64_encode"
+			],
+			[
+				"ord",
+				"order"
+			],
+			[
+				"record",
+				"records"
+			],
+			[
+				"wo",
+				"workTime"
+			],
+			[
+				"DB",
+				"DB_PASSWORD"
+			],
+			[
+				"iF",
+				"iframe"
+			],
+			[
+				"po",
+				"pounds"
+			],
+			[
+				"wall",
+				"walletPounds"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/backen/www/js/contact"
+	],
+	"file_history":
+	[
+		"/home/backen/www/python/govecs-schwalbe-python/apps/BaseAPI.py",
+		"/home/backen/www/python/govecs-schwalbe-python/apps/Customers.py",
+		"/home/backen/www/python/govecs-schwalbe-python/apps/Backups.py",
+		"/home/backen/www/python/govecs-schwalbe-python/config2.py",
+		"/home/backen/www/python/govecs-schwalbe-python/config.py",
+		"/home/backen/www/python/govecs-schwalbe-python/importer.py",
+		"/home/backen/www/html/govecs-shwalbe-api-php/app/config/parameters.yml.dist",
+		"/home/backen/www/html/govecs-shwalbe-api-php/src/ApiBundle/Resources/config/services.yml",
+		"/home/backen/www/html/govecs-shwalbe-api-php/src/AppBundle/Repository/ProductRepository.php",
+		"/home/backen/www/html/govecs-shwalbe-api-php/src/AppBundle/Repository/VinRepository.php",
+		"/home/backen/www/html/govecs-shwalbe-api-php/src/Services/ShoploService.php",
+		"/home/backen/www/html/govecs-shwalbe-api-php/src/Services/FilesService.php",
+		"/home/backen/www/html/govecs-shwalbe-api-php/README.md",
+		"/home/backen/www/html/govecs-shwalbe-api-php/src/AppBundle/Entity/Product.php",
+		"/home/backen/www/html/govecs-shwalbe-api-php/src/AppBundle/Entity/Vin.php",
+		"/home/backen/www/html/govecs-shwalbe-api-php/src/AppBundle/Entity/Client.php",
+		"/home/backen/www/html/govecs-shwalbe-api-php/composer.json",
+		"/home/backen/www/html/govecs-shwalbe-api-php/src/ApiBundle/Controller/OfficialLettersController.php",
+		"/home/backen/www/html/govecs-shwalbe-api-php/src/ApiBundle/Controller/VinController.php",
+		"/home/backen/www/html/govecs-shwalbe-api-php/src/ApiBundle/Controller/FilesController.php",
+		"/home/backen/www/html/govecs-shwalbe-api-php/app/config/security.yml",
+		"/home/backen/www/html/govecs-shwalbe-api-php/app/config/parameters.yml",
+		"/home/backen/www/tornado/govecsSkutery/config.py",
+		"/home/backen/Pulpit/endpoints.txt",
+		"/home/backen/Pulpit/status przenoszenia",
+		"/home/backen/www/html/govecs-shwalbe-api-php/vendor/shoplo/clientv2/src/Shoplo/ShoploApi.php",
+		"/home/backen/www/html/api.sparky/src/ApiBundle/Controller/FilesController.php",
+		"/home/backen/www/html/api.sparky/src/AppBundle/Entity/User.php",
+		"/home/backen/www/html/api.sparky/src/Services/FilesService.php",
+		"/home/backen/www/html/api.sparky/src/ApiBundle/Resources/config/services.yml",
+		"/home/backen/www/html/api.sparky/app/config/parameters.yml",
+		"/home/backen/www/html/api.sparky/app/config/parameters.yml.dist",
+		"/home/backen/www/html/api.sparky/README.md",
+		"/home/backen/www/html/api.sparky/app/config/security.yml",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Dealership/chooseAccountType.html.twig",
+		"/home/backen/www/html/ata-php/web/.htaccess",
+		"/home/backen/www/html/ata-php/src/Ata/Application/Dealership/ChangeDealershipContactDetailsCommandHandler.php",
+		"/home/backen/www/html/ata-php/src/Ata/Application/Dealership/ChangeDealershipContactDetailsCommand.php",
+		"/home/backen/www/html/ata-php/src/Ata/AdminBundle/Controller/DefaultController.php",
+		"/home/backen/www/html/ata-php/app/config/config.yml",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/layout.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/AdminBundle/Resources/views/Default/base.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Form/ChangeContactDetailsType.php",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Dealership/changeContactDetails.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/AdminBundle/Resources/views/Default/edit.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Form/RegisterDealershipType.php",
+		"/home/backen/www/html/ata-php/src/Ata/Application/Dealership/RegisterDealershipCommandHandler.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/Doctrine/config/mapping/DealershipContactDetails.orm.xml",
+		"/home/backen/www/html/ata-php/src/Ata/Application/Dealership/RegisterDealershipCommand.php",
+		"/home/backen/www/html/ata-php/src/Ata/Domain/DealershipContactDetails.php",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Dealership/register.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/AdminBundle/Resources/views/Default/index.html.twig",
+		"/home/backen/www/html/rb/index.php",
+		"/home/backen/www/html/rb/wp-config-sample.php",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/views/Buy/buy.html.twig",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Form/DealershipPageFilterType.php",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/public/js/admin.js",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/public/css/style.css",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Resources/public/js/ata.js",
+		"/home/backen/www/html/ata-php/src/Ata/Application/Dealership/ConfirmDealershipCommand.php",
+		"/home/backen/www/html/rb/rb.sql",
+		"/home/backen/www/html/rb/wp-config.php",
+		"/home/backen/www/html/ata-php/src/Ata/AdminBundle/Resources/public/js/admin.js",
+		"/home/backen/www/html/ata-php/src/Ata/Domain/Dealership.php",
+		"/home/backen/www/html/ata-php/src/Ata/AppBundle/Controller/DealershipController.php",
+		"/home/backen/www/tornado/atoz.api/api.py",
+		"/home/backen/www/tornado/atoz.api/models/models.py",
+		"/home/backen/www/tornado/atoz.api/config.py",
+		"/home/backen/www/tornado/atoz.api/app/mainConfig.py",
+		"/home/backen/www/tornado/atoz.api/components/__init__.py",
+		"/home/backen/www/tornado/atoz.api/components/deviceController.py",
+		"/home/backen/www/tornado/atoz.api/components/adminController.py",
+		"/home/backen/www/tornado/atoz.api/crateTables.py",
+		"/home/backen/www/html/ata-php/starkwood.py",
+		"/home/backen/www/html/ata-php/pyApp/Integrator.py",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/Integrations.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/Starkwood/Starkwood.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/Starkwood/Vehicle.php",
+		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/Starkwood/Branch.php",
+		"/home/backen/www/tornado/atoz.api/requirements.txt",
+		"/home/backen/www/starkwood-20170317-0300.csv",
+		"/home/backen/www/starkwood-dealer-20170317-0300.csv",
+		"/home/backen/www/tornado/atoz.api/app/__init__.py",
+		"/home/backen/www/html/starkwood-20170313-0300.csv",
+		"/home/backen/www/html/starkwood-dealer-20170313-0300.csv",
+		"/home/backen/Pulpit/query.xml",
+		"/home/backen/www/html/starkwood-dealer-20170312-0300.csv",
+		"/home/backen/www/html/starkwood-dealer-20170310-0300.csv",
+		"/home/backen/www/tornado/govecsSkutery/requirements.txt",
+		"/home/backen/www/tornado/atoz.api/models/Application.py",
+		"/home/backen/www/html/ktosprzata.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Repository/TestStatRepository.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Repository/TestRepository.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/TestStat.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Controller/TestStatController.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Controller/ApplicationController.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Form/ApplicationType.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/Application.php",
+		"/home/backen/www/backups/autotrade/ata-prod.dump.sql",
+		"/home/backen/www/backups/roofing-wp/wp-config.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/Device.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Repository/ApplicationRepository.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Form/TestType.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Form/RuleType.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/Test.php",
+		"/home/backen/www/html/ab-testing-tool-api/vendor/jms/serializer/src/JMS/Serializer/EventDispatcher/Subscriber/DoctrineProxySubscriber.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Helpers/DoctrineProxySubscriber.php",
+		"/home/backen/www/html/ab-testing-tool-api/app/config/parameters.yml",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/Rule.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Controller/UserController.php",
+		"/home/backen/www/html/passbolt/app/Config/app.php",
+		"/home/backen/www/html/passbolt/app/Config/email.php",
+		"/home/backen/www/html/passbolt/app/Plugin/EmailQueue/Model/EmailQueue.php",
+		"/home/backen/www/html/passbolt/app/Controller/Component/EmailNotificatorComponent.php",
+		"/home/backen/www/html/passbolt/app/Model/EmailNotification.php",
+		"/home/backen/www/html/passbolt/app/Controller/UsersController.php",
+		"/home/backen/www/html/passbolt/app/Controller/Component/Auth/GpgAuthenticate.php",
+		"/home/backen/www/html/passbolt/app/Config/core.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Controller/TestController.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Controller/RulesController.php",
+		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Repository/RuleRepository.php",
+		"/home/backen/www/html/parcelshipper-api-php/app/config/parameters.yml.dist",
+		"/etc/apache2/sites-available/ata.local.conf",
+		"/etc/apache2/sites-available/passbolt.local.conf",
+		"/home/backen/www/html/passbolt/app/Config/gpg/serverkey.private.asc",
+		"/home/backen/www/html/passbolt/app/Config/gpg/serverkey.private2.asc",
+		"/home/backen/www/html/passbolt/app/Config/gpg/serverkey.private3.asc",
+		"/home/backen/www/html/passbolt/app/Config/database.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>,/home/backen/www/html/passbolt",
+			"<current file>",
+			"<current file>,/home/backen/www/vir/ata-php",
+			"<current file>,/home/backen/www/vir/ata-php/src",
+			"<current file>",
+			"/home/backen/www/html/parcelshipper-api-php/",
+			"/home/backen/www/html/parcelshipper-api-php/src",
+			"/home/backen/www/html/parcelshipper-api-php",
+			"<current file>,/home/backen/www/html/impact-express-api/",
+			"<current file>,/home/backen/www/html/impact-express-api/src",
+			"<current file>,/home/backen/www/html/talloakstreesurgery.co.uk/wp-content/themes/striking",
+			"<current file>",
+			"/home/backen/www/html/readingstoragesolutions.co.uk",
+			"/home/backen/www/html/impact-express-api/",
+			"/home/backen/www/html/impact-express-api/src",
+			"/home/backen/www/html/parcelshipper-api-php/vendor/FedexApiClass",
+			"/home/backen/www/html/impact-express-api/",
+			"/home/backen/www/html/impact-express-api/src/ParcelShipper",
+			"<current file>",
+			"<current file>,/home/backen/www/html/impact-express-api",
+			"<current file>",
+			"/home/backen/www/impact-express",
+			"<current file>",
+			"/home/backen/www/html/impact-express-api/vendor",
+			"/home/backen/www/html/parcelshipper-api-php/src",
+			"/home/backen/www/html/parcelshipper-api-php/vendor",
+			"/home/backen/www/html/parcelshipper-api-php/",
+			"/home/backen/www/html/parcelshipper-api-php/src",
+			"/home/backen/www/html/parcelshipper-api-php/src/ParcelShipper/ParcelShipperApiBundle/DataFixtures/ORM",
+			"/home/backen/www/html/impact-express-api/vendor/dts/ebay-sdk",
+			"<current file>",
+			"/home/backen/www/html/impact-express-api",
+			"<current file>",
+			"/home/backen/www/html/parcelshipper-api-php",
+			"<current file>,/home/backen/www/html/parcelshipper-api-php/",
+			"<current file>,/home/backen/www/html/parcelshipper-api-php/vendor",
+			"<current file>,/home/backen/www/html/",
+			"<current file>,/home/backen/www/html/parcelshipper-api-php/",
+			"<current file>,/home/backen/www/html/parcelshipper-api-php/src",
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"prod",
+			"thumbPreview",
+			"javascripts",
+			"auto",
+			"ata",
+			"auto",
+			"ferrari",
+			"112453",
+			"auto",
+			"jmouldreadingreclamation",
+			"113320",
+			"beaulieu\\",
+			"113842",
+			"beaulieu",
+			"enqueue",
+			"EmailNotification",
+			"accountRecoveryNotification",
+			"recover",
+			"EmailConfig",
+			"The GPG Server key defined in the config is not found in the gpg keyring",
+			"139.162.143.133",
+			"datasource",
+			"46.32.240.33",
+			"children",
+			"blog",
+			"appf",
+			"blog",
+			"20",
+			"fl",
+			"fla",
+			"flas",
+			"bodyType",
+			"body",
+			"empty",
+			"emp",
+			"em",
+			"files",
+			"iles",
+			"carType",
+			"url",
+			"003eff",
+			"003fee",
+			"e9e9e9",
+			"007fff",
+			"active",
+			"active\\",
+			"'Chevrolet', 'Monza'",
+			"'Citroën', 'CX'",
+			"'Chevrolet', 'Monte Carlo'",
+			"'Citroën', 'SM'",
+			"'Chevrolet', 'Vega'",
+			"'Porsche', '914'",
+			"'Ford', 'Torino'",
+			"'Plymouth', 'Roadrunner'",
+			"'Shelby', 'GT350'",
+			"'Dodge', 'Charger'",
+			"'Shelby', 'GT500'",
+			"'Mercury', 'Cougar'",
+			"'Ford', 'Country'",
+			"'Chevrolet', 'Bel Air'",
+			"'Chevrolet', 'Camaro'",
+			"'Pontiac', 'Firebird'",
+			"'Oldsmobile', 'Toronado'",
+			"'Jensen', 'Interceptor'",
+			"'Ford', 'Falcon'",
+			"'Volkswagen', 'Beetle'",
+			"'Ford', 'Fairlane'",
+			"Mini Cooper",
+			"'Plymouth', 'Fury'",
+			"'Pontiac', 'Bonneville'",
+			"LeMans",
+			"'Pontiac', 'LeMans'",
+			"'Pontiac', 'GTO'",
+			"Mustang",
+			"E-Series",
+			"Classic",
+			"Classic\nClassic",
+			"Special",
+			"Grand Prix",
+			"Tempest",
+			"Avanti",
+			"Rockette",
+			"Fillmore",
+			"Corvair",
+			"'Austin', 'Mini'",
+			"'BMW', '600'",
+			"Thunderbird",
+			"Fleetwood",
+			"Corvette",
+			"Magnificent",
+			"2CV",
+			"Imperial",
+			")",
+			"\\([0-9]+, ",
+			"\\([0-9]+,",
+			"DirectoryIndex",
+			"magicz",
+			"magi",
+			"chris@autotradeassociates.co.uk",
+			"ataChooseDealershipAccountTypeEmailAddress:",
+			"tihs",
+			"ata",
+			"cons",
+			"con",
+			"message",
+			"2551",
+			"err",
+			"allOrders",
+			"totalSum",
+			"payment",
+			"arcelshipper payment",
+			"Parcelshipper payment",
+			"makeTree",
+			"getNearestMachinesActio",
+			"dropgetNearestMachinesActio",
+			"dropgetNearestMachinesAction",
+			"drop",
+			"log",
+			"trac",
+			"order-table",
+			"tracking",
+			"    Yes Yes Yes Yes Yes",
+			"panel",
+			"show",
+			"review",
+			"track",
+			"log",
+			"logout"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"c6b374",
+			"",
+			"]",
+			"[",
+			"https://impactexpress.co.uk/news",
+			" ",
+			"\t",
+			"    \t",
+			"\t",
+			"@impactexpress.co.uk",
+			"",
+			"\\n",
+			"",
+			"--\\1--",
+			"\\1",
+			"",
+			" ",
+			"",
+			" ",
+			"\\1 \\n",
+			"$1 \\n",
+			"",
+			"2015/07",
+			"",
+			"varDumpToString",
+			"  ",
+			"  2",
+			"  9",
+			"  8",
+			"  5",
+			"  1",
+			"ieEmailLogo.png",
+			"`wp_blog_",
+			"studio-rouge.staging.appformation.pl",
+			"",
+			"API_URL"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/backen/www/js/contact"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/www/html/ata-php/ata.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 530.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 416.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
