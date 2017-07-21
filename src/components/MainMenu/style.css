@@ -1,0 +1,120 @@
+
+.main-menu h3 {     
+  text-align: center; 
+}
+
+.sideBarMenuContainer {
+    /*position: fixed;
+    height: 100%;*/
+}
+
+.userMenu {
+    width: 100%;
+    text-align: center;
+    margin-right: 0px;
+    margin-left: 0px;    
+    margin-top: 0px;
+}
+
+nav.sidebar :global(.navbar-brand) :global(.glyphicon) {
+    margin-right: 10px;
+}
+
+
+/*Remove rounded coners*/
+nav.sidebar.:global(navbar) {
+    border-radius: 0px;
+}
+
+
+nav.sidebar {
+    -webkit-transition: margin 200ms ease-out;
+    -moz-transition: margin 200ms ease-out;
+    -o-transition: margin 200ms ease-out;
+    transition: margin 200ms ease-out;
+}
+
+.navbar-inverse {
+  background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+nav.sidebar .navbar-nav>li {
+    border-bottom: 1px rgba(255, 255, 255, 0.4) solid !important;
+}
+.navbar-inverse .navbar-nav>li>a {
+  color: #fff;
+}
+
+nav.sidebar a {
+  color: #fff;
+  background-color: transparent;
+}
+
+
+.nav.navbar-nav {
+  width: 100%;
+}
+
+.navbar-inverse {
+  border-color: transparent;
+  }
+    
+/*Center Brand*/
+nav.sidebar :global(.navbar-brand), nav.sidebar :global(.navbar-header) {
+    text-align: center;
+    width: 100%;
+    margin-left: 0px;
+}
+
+/*Center Icons*/
+nav.sidebar a {
+    padding-right: 0px;
+}
+
+/*adds border top to first nav box */
+nav.sidebar :global(.navbar-nav)>li:first-child {
+    
+}
+
+/*adds border to bottom nav boxes*/
+nav.sidebar :global(.navbar-nav)>li {
+    border-bottom: 1px #e5e5e5 solid;
+}
+
+/* Colors/style dropdown box*/
+nav.sidebar :global(.navbar-nav) :global(.open) :global(.dropdown-menu) {
+    position: static;
+    float: none;
+    width: auto;
+    margin-top: 0;
+    background-color: transparent;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+/*allows nav box to use 100% width*/
+nav.sidebar :global(.navbar-collapse), nav.sidebar :global(.container-fluid) {
+  padding: 0 0px 0 0px;
+}
+
+nav.sidebar a {
+  padding-right: 13px;
+}
+   
+nav.sidebar {
+  width: 100%;
+}
+
+nav.sidebar li {
+    width: 100%;
+}
+
+nav.sidebar :global(.navbar-nav) :global(.open) :global(.dropdown-menu)>li>a:hover, nav.sidebar :global(.navbar-nav) :global(.open) :global(.dropdown-menu)>li>a:focus
+{
+  background-color: transparent;
+  color: #fff;
+}

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Grid} from 'react-bootstrap';
+import { Grid } from 'react-bootstrap';
 import LoginForm from '../../components/LoginForm';
 import './style.css';
 
@@ -17,7 +17,7 @@ class Login extends Component {
 
   render() {
     
-    return (
+    return (      
       <Grid>
         <div className="card card-container">
           <img id="profile-img" className="profile-img-card" src="//ssl.gstatic.com/accounts/ui/avatar_2x.png" alt="" />

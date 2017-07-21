@@ -29,18 +29,18 @@ class LoginForm extends Component {
   }
 
   onSubmit = (e) => {
-    let {onSubmit} = this.props;
+    const {onSubmit} = this.props;
     onSubmit(this.state);
     e.preventDefault();    
   }
 
-  render() {    
+  render() {
     
-    return (      
+    return (
       <form className="form-signin" onSubmit={this.onSubmit} >
-        <span id="reauth-email" className="reauth-email"></span>
-        <input type="text" id="inputEmail" className="form-control" placeholder="Email address" required autoFocus onChange={this.onChangeLogin} value={this.state.login} />
-        <input type="password" id="inputPassword" className="form-control" placeholder="Password" required onChange={this.onChangePassword} value={this.state.password} />
+        <span className="reauth-email"></span>
+        <input type="text" className="form-control" placeholder="Email address" required autoFocus onChange={this.onChangeLogin} value={this.state.login} />
+        <input type="password" className="form-control" placeholder="Password" required onChange={this.onChangePassword} value={this.state.password} />
         <div id="remember" className="checkbox">
             <label>
               <input type="checkbox" value="remember-me" /> Remember me

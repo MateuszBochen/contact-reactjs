@@ -1,0 +1,34 @@
+ul.steps-menu {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+ul.steps-menu li {
+    display: block;
+    color: #808080;
+    background-color: #d2d4d6;
+    cursor: pointer;
+    padding: 10px;
+    font-style: italic;
+}
+
+ul.steps-menu li.active{
+    background-color: #33498c;
+
+}
+ul.steps-menu li.active h4{
+    color: #fff;
+}
+
+ul.steps-menu li h4{
+    font-size: 18px;
+    color: #000;
+    margin: 0px;
+    font-style: normal;
+}
+
+ul.steps-menu li hr{
+    margin: 0px;
+    margin-top: 10px;
+}

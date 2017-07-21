@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import { Row, Col } from 'react-bootstrap';
+import MainMenu from '../../components/MainMenu';
+import WorkPage from '../../components/WorkPage';
 import './style.css';
 
 class App extends Component {
@@ -11,13 +13,16 @@ class App extends Component {
 
     return (
       <div className="">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to React dupa kurwa </h2>
-        </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <Row className="show-grid main-row">
+          <Col xs={2} className="fullHeight no-padding main-menu" >
+            <MainMenu />
+          </Col>
+          <Col xs={10} className="fullHeight no-padding" >
+            <div className="mainApp">
+              <WorkPage />
+            </div>
+          </Col>
+        </Row>
       </div>
     );
   }
