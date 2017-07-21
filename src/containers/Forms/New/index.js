@@ -1,12 +1,37 @@
 import React, { Component } from 'react';
-import { If, Then, Else } from 'react-if';
 import { Row, Col } from 'react-bootstrap';
-import Step1 from '../../../components/Forms/Step1';
-import Step2 from '../../../components/Forms/Step2';
-import Step3 from '../../../components/Forms/Step3';
-import Step4 from '../../../components/Forms/Step4';
-import Step5 from '../../../components/Forms/Step5';
 import './style.css';
+
+
+const steps = {
+  1: (onPrev, onNext) => { const Step1 = require('../../../components/Forms/Step1'); return <Step1.default onPrev={onPrev} onNext={onNext}/> },
+  2: (onPrev, onNext) => { const Step2 = require('../../../components/Forms/Step2'); return <Step2.default onPrev={onPrev} onNext={onNext}/> },
+  3: (onPrev, onNext) => { const Step3 = require('../../../components/Forms/Step3'); return <Step3.default onPrev={onPrev} onNext={onNext}/> },
+  4: (onPrev, onNext) => { const Step4 = require('../../../components/Forms/Step4'); return <Step4.default onPrev={onPrev} onNext={onNext}/> },
+  5: (onPrev, onNext) => { const Step5 = require('../../../components/Forms/Step5'); return <Step5.default onPrev={onPrev} onNext={onNext}/> },
+};
+
+const navLinks = [
+  { title: 'Krok 1', text: ' Domena nazwa formularza', step: 1 },
+  { title: 'Krok 2', text: ' Kontaktowe adresy e-mail', step: 2 },
+  { title: 'Krok 3', text: ' Budowa formularza', step: 3 },
+  { title: 'Krok 4', text: ' Tematy i powiazanie adresow email', step: 4 },
+  { title: 'Krok 5', text: ' Tresc wiadomosci kontaktowej', step: 5 },
+];
+
+const MenuItem = ({ title, text, isActive }) => <li className={(isActive ? 'active' : '')}><h4>{title}</h4>{text}<hr /></li>
+const Menu = ({ activeStep }) =>
+  (<ul className="steps-menu">
+    { navLinks.map(
+      ({ title, text, step }, index) =>
+        (<MenuItem
+          title={title}
+          text={text}
+          isActive={step === activeStep}
+          key={`menu-item-${step}`}
+        />)
+    )}
+  </ul>)
 
 class FormsNew extends Component {
   // static propTypes = {}
@@ -16,50 +41,25 @@ class FormsNew extends Component {
       step: 1
     };
   }
-  
 
-  next = () =>
-  {
-    let step = (this.state.step+1 > 5 ? 5 : this.state.step+1);
-
-    this.setState({
-      step: step
-    });
+  navigate = (step) => {
+    this.setState({ step });
   }
 
-  back = () =>
-  {
-    let step = (this.state.step-1 > 0 ? this.state.step-1 : 1);
 
-    this.setState({
-      step: step
-    });
-  }
 
   render() {
+    const { step } = this.state;
     return (
       <Row>
           <Col xs={2} >
-            <ul className="steps-menu">
-              <li className={(this.state.step == 1 ? 'active' : '')} ><h4>Krok 1</h4> Domena nazwa formularza<hr /></li>
-              <li className={(this.state.step == 2 ? 'active' : '')} ><h4>Krok 2</h4> Kontaktowe adresy e-mail<hr /></li>
-              <li className={(this.state.step == 3 ? 'active' : '')} ><h4>Krok 3</h4> Budowa formularza<hr /></li>
-              <li className={(this.state.step == 4 ? 'active' : '')} ><h4>Krok 4</h4> Tematy i powiazanie adresow email<hr /></li>
-              <li className={(this.state.step == 5 ? 'active' : '')} ><h4>Krok 5</h4> Tresc wiadomosci kontaktowej <hr /></li>
-            </ul>
+            <Menu activeStep={this.state.step}/>
           </Col>
           <Col xs={10}>
-            <If condition={this.state.step == 1}><Then><Step1 /></Then> </If>
-            <If condition={this.state.step == 2}><Then><Step2 /></Then> </If>
-            <If condition={this.state.step == 3}><Then><Step3 /></Then> </If>
-            <If condition={this.state.step == 4}><Then><Step4 /></Then> </If>
-            <If condition={this.state.step == 5}><Then><Step5 /></Then> </If>
-            
-            <a onClick={this.back}>Cofnij</a>
-            <a onClick={this.next}>Dalej</a>
+            {steps[step](() => { this.navigate(step - 1)}, () => { this.navigate(step + 1)}  )}
           </Col>
       </Row>
     );
-  }   
+  }
 }
 export default FormsNew;

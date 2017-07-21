@@ -9,9 +9,11 @@
     "react": "^15.6.1",
     "react-bootstrap": "^0.31.0",
     "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
     "react-router-dom": "^4.1.1",
     "react-scripts": "1.0.10",
-    "react-toggle-switch": "^2.1.4"
+    "react-toggle-switch": "^2.1.4",
+    "redux": "^3.7.2"
   },
   "scripts": {
     "start": "react-scripts start",
