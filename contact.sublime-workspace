@@ -4,16 +4,88 @@
 		"selected_items":
 		[
 			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"te",
+				"tekstowe"
+			],
+			[
+				"on",
+				"onClose"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"email",
+				"e-mail"
+			],
+			[
+				"do",
+				"domain"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"Nav",
+				"NavItem"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"logi",
+				"LoginFormState"
+			],
+			[
+				"lgoin",
+				"LoginForm"
+			],
+			[
 				"sh",
 				"shoploProduct"
 			],
 			[
 				"sho",
 				"shoploService"
-			],
-			[
-				"pa",
-				"package"
 			],
 			[
 				"th",
@@ -80,10 +152,6 @@
 				"model_to_dict"
 			],
 			[
-				"class",
-				"classname"
-			],
-			[
 				"devi",
 				"Device"
 			],
@@ -106,10 +174,6 @@
 			[
 				"app",
 				"appName"
-			],
-			[
-				"margin",
-				"margin-top"
 			],
 			[
 				"bac",
@@ -232,20 +296,12 @@
 				"width"
 			],
 			[
-				"max",
-				"max-height"
-			],
-			[
 				"iss",
 				"isset"
 			],
 			[
 				"ex",
 				"exit"
-			],
-			[
-				"con",
-				"continue"
 			],
 			[
 				"json",
@@ -340,10 +396,6 @@
 				"input"
 			],
 			[
-				"pad",
-				"padding-top"
-			],
-			[
 				"remo",
 				"remove"
 			],
@@ -366,10 +418,6 @@
 			[
 				"fa",
 				"fail"
-			],
-			[
-				"logi",
-				"loginForm"
 			],
 			[
 				"in",
@@ -466,59 +514,47 @@
 			[
 				"getD",
 				"getDescription"
-			],
-			[
-				"len",
-				"length"
-			],
-			[
-				"w",
-				"weight"
-			],
-			[
-				"zoe",
-				"zones"
-			],
-			[
-				"array_k",
-				"array_key_exists"
-			],
-			[
-				"bas",
-				"base64_encode"
-			],
-			[
-				"ord",
-				"order"
-			],
-			[
-				"record",
-				"records"
-			],
-			[
-				"wo",
-				"workTime"
-			],
-			[
-				"DB",
-				"DB_PASSWORD"
-			],
-			[
-				"iF",
-				"iframe"
-			],
-			[
-				"po",
-				"pounds"
-			],
-			[
-				"wall",
-				"walletPounds"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "src/containers/Forms/Steps/Step4/index.js",
+			"settings":
+			{
+				"buffer_size": 1927,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/containers/Forms/Steps/Step4/style.css",
+			"settings":
+			{
+				"buffer_size": 106,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/reducers/forms.js",
+			"settings":
+			{
+				"buffer_size": 564,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/actions/forms.js",
+			"settings":
+			{
+				"buffer_size": 317,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -527,8 +563,8 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "",
+		"height": 132.0,
+		"last_filter": "Package Control: in",
 		"selected_items":
 		[
 			[
@@ -540,7 +576,7 @@
 				"Set Syntax: Diff"
 			]
 		],
-		"width": 449.0
+		"width": 467.0
 	},
 	"console":
 	{
@@ -561,10 +597,79 @@
 	},
 	"expanded_folders":
 	[
-		"/home/backen/www/js/contact"
+		"/home/backen/www/js/contact",
+		"/home/backen/www/js/contact/src",
+		"/home/backen/www/js/contact/src/actions",
+		"/home/backen/www/js/contact/src/components",
+		"/home/backen/www/js/contact/src/components/Forms",
+		"/home/backen/www/js/contact/src/components/Forms/FieldView",
+		"/home/backen/www/js/contact/src/containers",
+		"/home/backen/www/js/contact/src/containers/Forms",
+		"/home/backen/www/js/contact/src/containers/Forms/New",
+		"/home/backen/www/js/contact/src/containers/Forms/Steps",
+		"/home/backen/www/js/contact/src/containers/Forms/Steps/Step3",
+		"/home/backen/www/js/contact/src/containers/Forms/Steps/Step4",
+		"/home/backen/www/js/contact/src/reducers"
 	],
 	"file_history":
 	[
+		"/home/backen/www/js/contact/src/containers/Forms/Steps/Step3/index.js",
+		"/home/backen/www/js/contact/src/reducers/forms.js",
+		"/home/backen/www/js/contact/src/containers/Forms/Steps/Step2/index.js",
+		"/home/backen/www/js/contact/src/actions/forms.js",
+		"/home/backen/www/js/contact/src/components/Forms/FieldView/index.js",
+		"/home/backen/www/js/contact/src/components/Forms/ModalSubject/index.js",
+		"/home/backen/www/js/contact/src/components/Forms/ModalInput/index.js",
+		"/home/backen/www/js/contact/src/components/Forms/ModalTextarea/index.js",
+		"/home/backen/www/js/contact/src/components/Forms/ModalSelect/index.js",
+		"/home/backen/www/js/contact/src/components/Forms/NewDropdownOption/index.js",
+		"/home/backen/www/js/contact/src/components/Forms/Modaltextarea/index.js",
+		"/home/backen/www/js/contact/src/containers/Forms/New/index.js",
+		"/home/backen/www/js/contact/src/components/Forms/NewEmailAddress/index.js",
+		"/home/backen/www/js/contact/src/containers/Forms/Steps/Step1/index.js",
+		"/home/backen/www/js/contact/src/components/Forms/CreateFormMenu/index.js",
+		"/home/backen/www/js/contact/src/components/Forms/CreateFormMenu/style.css",
+		"/home/backen/www/js/contact/src/components/Forms/Step2/index.js",
+		"/home/backen/www/js/contact/src/components/Forms/Step3/index.js",
+		"/home/backen/www/js/contact/src/components/Forms/Step4/index.js",
+		"/home/backen/www/js/contact/src/components/Forms/Step5/index.js",
+		"/home/backen/www/js/contact/src/components/Forms/Step1/index.js",
+		"/home/backen/www/js/contact/src/components/Forms/Step1/style.css",
+		"/home/backen/www/js/contact/src/containers/Forms/New/style.css",
+		"/home/backen/www/js/contact/src/components/WorkPage/index.js",
+		"/home/backen/www/js/contact/src/containers/App/index.js",
+		"/home/backen/www/js/contact/src/containers/App/style.css",
+		"/home/backen/www/js/contact/src/components/LoginForm/index.js",
+		"/home/backen/www/js/contact/src/components/MainMenu/index.js",
+		"/home/backen/www/js/contact/src/containers/Forms/index.js",
+		"/home/backen/www/js/contact/src/containers/Forms/Index/index.js",
+		"/home/backen/www/js/contact/src/containers/Forms/Index/style.css",
+		"/home/backen/www/js/contact/src/containers/Login/index.js",
+		"/home/backen/www/js/contact/src/containers/Login/style.css",
+		"/home/backen/www/js/contact/src/containers/Forms/style.css",
+		"/home/backen/www/js/contact/src/components/WorkPage/style.css",
+		"/home/backen/www/js/contact/src/containers/Dashboard/index.js",
+		"/home/backen/www/js/contact/src/containers/Dashboard/style.css",
+		"/home/backen/www/js/contact/src/routes.js",
+		"/home/backen/www/js/contact/src/components/MainMenu/style.css",
+		"/home/backen/www/js/contact/src/containers/Forms\nForms/index.js",
+		"/home/backen/www/js/policja-backend/src/main.ts",
+		"/home/backen/www/js/policja-backend/src/app/app.module.ts",
+		"/home/backen/www/js/policja-backend/src/app/dashboard/dashboard.component.html",
+		"/home/backen/www/js/policja-backend/src/polyfills.ts",
+		"/home/backen/www/js/contact/public/index.html",
+		"/home/backen/www/js/contact/src/components/LoginForm/style.css",
+		"/home/backen/www/js/contact/src/containers/About/index.js",
+		"/home/backen/www/js/contact/src/containers/NotFound/index.js",
+		"/home/backen/www/js/contact/server/app.js",
+		"/home/backen/www/js/contact/server/index.js",
+		"/home/backen/www/js/contact/src/index.js",
+		"/home/backen/www/js/contact/package.json",
+		"/home/backen/www/js/contact/src/components/Login/style.css",
+		"/home/backen/www/js/contact/src/components/App/index.js",
+		"/home/backen/www/js/contact/src/components/Login/index.js",
+		"/home/backen/www/js/contact/src/components/About/index.js",
+		"/home/backen/www/js/contact/src/components/NotFound/index.js",
 		"/home/backen/www/python/govecs-schwalbe-python/apps/BaseAPI.py",
 		"/home/backen/www/python/govecs-schwalbe-python/apps/Customers.py",
 		"/home/backen/www/python/govecs-schwalbe-python/apps/Backups.py",
@@ -635,64 +740,7 @@
 		"/home/backen/www/tornado/atoz.api/config.py",
 		"/home/backen/www/tornado/atoz.api/app/mainConfig.py",
 		"/home/backen/www/tornado/atoz.api/components/__init__.py",
-		"/home/backen/www/tornado/atoz.api/components/deviceController.py",
-		"/home/backen/www/tornado/atoz.api/components/adminController.py",
-		"/home/backen/www/tornado/atoz.api/crateTables.py",
-		"/home/backen/www/html/ata-php/starkwood.py",
-		"/home/backen/www/html/ata-php/pyApp/Integrator.py",
-		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/Integrations.php",
-		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/Starkwood/Starkwood.php",
-		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/Starkwood/Vehicle.php",
-		"/home/backen/www/html/ata-php/src/Ata/Infrastructure/DealershipTools/Starkwood/Branch.php",
-		"/home/backen/www/tornado/atoz.api/requirements.txt",
-		"/home/backen/www/starkwood-20170317-0300.csv",
-		"/home/backen/www/starkwood-dealer-20170317-0300.csv",
-		"/home/backen/www/tornado/atoz.api/app/__init__.py",
-		"/home/backen/www/html/starkwood-20170313-0300.csv",
-		"/home/backen/www/html/starkwood-dealer-20170313-0300.csv",
-		"/home/backen/Pulpit/query.xml",
-		"/home/backen/www/html/starkwood-dealer-20170312-0300.csv",
-		"/home/backen/www/html/starkwood-dealer-20170310-0300.csv",
-		"/home/backen/www/tornado/govecsSkutery/requirements.txt",
-		"/home/backen/www/tornado/atoz.api/models/Application.py",
-		"/home/backen/www/html/ktosprzata.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Repository/TestStatRepository.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Repository/TestRepository.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/TestStat.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Controller/TestStatController.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Controller/ApplicationController.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Form/ApplicationType.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/Application.php",
-		"/home/backen/www/backups/autotrade/ata-prod.dump.sql",
-		"/home/backen/www/backups/roofing-wp/wp-config.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/Device.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Repository/ApplicationRepository.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Form/TestType.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Form/RuleType.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/Test.php",
-		"/home/backen/www/html/ab-testing-tool-api/vendor/jms/serializer/src/JMS/Serializer/EventDispatcher/Subscriber/DoctrineProxySubscriber.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Helpers/DoctrineProxySubscriber.php",
-		"/home/backen/www/html/ab-testing-tool-api/app/config/parameters.yml",
-		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Entity/Rule.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Controller/UserController.php",
-		"/home/backen/www/html/passbolt/app/Config/app.php",
-		"/home/backen/www/html/passbolt/app/Config/email.php",
-		"/home/backen/www/html/passbolt/app/Plugin/EmailQueue/Model/EmailQueue.php",
-		"/home/backen/www/html/passbolt/app/Controller/Component/EmailNotificatorComponent.php",
-		"/home/backen/www/html/passbolt/app/Model/EmailNotification.php",
-		"/home/backen/www/html/passbolt/app/Controller/UsersController.php",
-		"/home/backen/www/html/passbolt/app/Controller/Component/Auth/GpgAuthenticate.php",
-		"/home/backen/www/html/passbolt/app/Config/core.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Controller/TestController.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/ApiBundle/Controller/RulesController.php",
-		"/home/backen/www/html/ab-testing-tool-api/src/AppBundle/Repository/RuleRepository.php",
-		"/home/backen/www/html/parcelshipper-api-php/app/config/parameters.yml.dist",
-		"/etc/apache2/sites-available/ata.local.conf",
-		"/etc/apache2/sites-available/passbolt.local.conf",
-		"/home/backen/www/html/passbolt/app/Config/gpg/serverkey.private.asc",
-		"/home/backen/www/html/passbolt/app/Config/gpg/serverkey.private2.asc",
-		"/home/backen/www/html/passbolt/app/Config/gpg/serverkey.private3.asc",
-		"/home/backen/www/html/passbolt/app/Config/database.php"
+		"/home/backen/www/tornado/atoz.api/components/deviceController.py"
 	],
 	"find":
 	{
@@ -937,8 +985,124 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/containers/Forms/Steps/Step4/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1363,
+								1363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/containers/Forms/Steps/Step4/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/reducers/forms.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								509,
+								509
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/actions/forms.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -973,6 +1137,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0

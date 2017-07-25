@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { saveStepOne } from '../../../actions/forms';
-import { Row, Col, Form, FormGroup, InputGroup, FormControl, ControlLabel} from 'react-bootstrap';
+import { saveStepOne } from '../../../../actions/forms';
+import { Col, Form, FormGroup, InputGroup, FormControl, ControlLabel} from 'react-bootstrap';
 import './style.css';
 
 class Step1 extends Component {
@@ -64,7 +64,7 @@ class Step1 extends Component {
             </Col>
           </FormGroup>
         </Form>
-        <button disbled>Cofnij</button>
+        <button disabled >Cofnij</button>
         <button onClick={this.onNext}>Dalej</button>
       </div>
     )
